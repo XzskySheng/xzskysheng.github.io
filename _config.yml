@@ -20,8 +20,7 @@
 
 title: Xzsky的个人网站
 email: xzswolfly@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-青峰之巅，山外之山
+description: >- # this means to ignore newlines until "baseurl:"青峰之巅，山外之山
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://xzskysheng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shengsky2
